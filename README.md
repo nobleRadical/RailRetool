@@ -6,4 +6,6 @@ Don't be afraid to contact me on the modding discord with basically anything abo
 
 ## Changelog
 
+1.1.0 - Added configuration to turn off the equipment-switching functionality of Railgunner's Retool.
+
 1.0.0 -~ MOD WORKS NOW ~-
