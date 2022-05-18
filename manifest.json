@@ -1,0 +1,10 @@
+﻿{
+	"name": "Railgunner_Retool",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Adds MUL-T's Retool to Railgunner as an alternate special.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
